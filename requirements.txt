@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+xgboost
+keras
+scikeras
+numpy
+joblib
+phik
+seaborn
+matplotlib
+ipywidgets
